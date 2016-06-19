@@ -1,11 +1,1 @@
-# w207_EEG
-# This repository is for the DataSci W207 (Summer 2015) final project on EEG.
-
-features_extract.py
-- all the different feature extraction methods are implemented here
-
-main.py
-- run to test effectiveness of features and modeling
-
-submit.py
-- run to generate submittable csv file
+Machine learning algorithm to predict hand motions using recordings of electroencephalogram with an AUC score that is close to 0.80. This demonstrates the advancements in interpreting EEG signals which has the potential to provide affordable, low-risk, non-invasive BCI (brain-computer interface) devices
